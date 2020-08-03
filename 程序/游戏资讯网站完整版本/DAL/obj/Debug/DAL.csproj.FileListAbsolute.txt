@@ -1,0 +1,7 @@
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\bin\Debug\DAL.dll
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\bin\Debug\DAL.pdb
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\bin\Debug\Model.dll
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\bin\Debug\Model.pdb
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\obj\Debug\DAL.dll
+C:\Users\li\Documents\Visual Studio 2015\Projects\WEB6\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,119 @@
+﻿.Body
+{
+	BACKGROUND-IMAGE: url(../images/bg.gif); BACKGROUND-REPEAT: repeat-x;
+	margin:0px 0pr 0px 10px;
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #fff repeat-x; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px Verdana, Arial, sans-serif; COLOR: #666; PADDING-TOP: 0px
+}
+
+A:link
+{
+	color: #000000;
+	
+}
+A:visited {
+	COLOR: #000000}
+A:hover {
+	COLOR: #FF9900}
+.Login1
+{
+	height: 30px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	background-color: #3399FF;
+	border: 1px solid #0066CC;
+	text-align: center;
+}
+.Login2 {
+	background-color: #FBFDFF;
+	border: 1px solid #c3e0f5;
+}
+.Login3 {
+	background-color: #FBFDFF;
+	border: 1px solid #c3e0f5;
+	line-height: 25px;
+}
+
+.Main1 {
+	color: #FFFFFF;
+	background-color: #2701BE;
+	font-weight: bold;
+}
+.Main2 {
+	color: #000000;
+	border: 1px solid #035BBC;
+	line-height: 30px;
+}
+.View1 {
+	font-size: 22px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #EAF6FF;
+	border: 1px solid #A2D8FF;
+	color: #000000;
+	font-weight: bold;
+}
+.View3 {
+	color: #83443B;
+	background-color: #FFED9C;
+	border: 1px solid #FFD924;
+	font-weight: bold;
+}
+.View4 {
+	color: #83443B;
+	background-color: #FFFCEE;
+	border: 1px solid #FFD924;
+	line-height: 20px;
+}
+.View2 {
+	background-color: #FBFDFF;
+	border: 1px solid #c3e0f5;
+	line-height: 25px;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+	color: #666666;
+	background-color: #ECF1F5;
+	height: 28px;
+}
+.class1 {
+	font-family: "宋体";
+	font-size: 12px;
+	font-style: normal;
+	color: #000000;
+	background-image: url(images/d_bg.gif);
+	background-repeat: repeat-x;
+	height: 25px;
+	font-weight: normal;
+	border: 1px solid #c3e0f5;
+}
+.Class1 {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #EAF6FF;
+	border: 1px solid #A2D8FF;
+
+}
+.Defauit1 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #105cb6;
+	background-color: #EAF6FF;
+	border: 1px solid #A2D8FF;
+	text-align:left
+}
+.Defauit2 {
+	background-color: #FBFDFF;
+	border: 1px solid #c3e0f5;
+	line-height: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*
+留言管理表格边框
+*/
+.lygl
+{
+	border: 1px solid #3399FF;
+}
+

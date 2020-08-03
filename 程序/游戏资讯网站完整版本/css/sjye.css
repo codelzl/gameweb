@@ -1,0 +1,114 @@
+﻿.ti
+{
+	width:90%; 
+	height:50px; 
+	line-height:50px; 
+	border-bottom: #cccccc 1px solid;
+	margin-left:auto;
+	margin-right:auto; 
+}
+p
+{
+	margin:0px; 
+	padding:0px; 
+	font-size: 20px;
+	text-align: center; 
+	color: #3366ff;
+}
+.fa
+{
+	text-align: center; 
+	line-height: 15px; 
+	margin-top: 9px; 
+	color: #000000; 
+	font-size: 14px;
+	height:15px;
+}
+.nr
+{
+	width: 90%; 
+	color: #000000; 
+	font-size: 14px; 
+	margin: 0px auto; 
+	text-align: left;
+	line-height: 3ex;
+
+}
+
+/*端午相册样式*/
+#visual_area
+{
+	 
+	margin-left: 5px;
+	width: 99%;
+	height: 340px;
+	
+}
+#visual_img {
+	width:980px;
+	height:615px; 
+	
+	margin:0 auto;
+	padding:0;
+	
+}
+.too
+{
+  width:100%;
+  height:330px;
+	
+}
+#shui
+{
+	width: 100%;
+	 height:475px;
+	
+}
+#tu1
+{
+	margin: 10px 0;
+	width: 100%;
+	height: 58px;
+	background-image: url( '../swf/22.jpg' );
+	background-repeat: no-repeat;
+}
+#tu2
+{    margin:10px; 
+	width: 100%;
+	height: 58px;
+	background-image: url( '../swf/11.jpg' );
+	background-repeat: no-repeat;
+	
+}
+/*端午相册样式结束*/
+
+
+/**注册页的样式*/
+#zhuce tr td td
+{
+	text-align:center;
+	
+}
+#zhuce tr
+{
+	 line-height:30px;
+}
+.button /*文本框样式*/
+{
+	border: 1px solid #C0C0C0;
+	height: 20px;
+	width: 200px;
+	font-size: 16px;
+	padding: 5px 0 5px 0;
+}
+.botton_zc
+{
+	border: 1px solid #C0C0C0;
+	width: 100px;
+	text-align: center;
+	font-size: 16px;
+	background-color: #33CC33;
+	color: #FFFFFF;
+	cursor: pointer;
+    letter-spacing:1em;
+}
